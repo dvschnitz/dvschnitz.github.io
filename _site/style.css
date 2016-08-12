@@ -41,6 +41,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
+    color: #fff;
 }
 
 a {
@@ -870,4 +871,7 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+// Added by dvschnitz
+
 
