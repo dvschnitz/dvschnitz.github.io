@@ -4,8 +4,8 @@ subtitle: Android/Physical Computing
 layout: default
 modal-id: 2
 date: 2016-06-30
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: customCube.png
+thumbnail: customCube-thumbnail.png
 alt: image-alt
 project-date: Juni 2016
 client: Start Bootstrap
