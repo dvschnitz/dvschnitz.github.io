@@ -309,6 +309,11 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+@media(max-width:500px) {
+  /*Added*/
+  font-size: 20px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
@@ -877,5 +882,3 @@ body {
 }
 
 // Added by dvschnitz
-
-
