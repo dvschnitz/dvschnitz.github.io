@@ -127,6 +127,19 @@ fieldset[disabled] .btn-primary.active {
     background-color: #fff;
 }
 
+/*added: changed from 20px 40px*/
+.btn-xl {
+    padding: 15px 30px;
+    border-color: #fed136;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #fed136;
+}
+@media(min-width:767px) {
 .btn-xl {
     padding: 20px 40px;
     border-color: #fed136;
@@ -137,6 +150,7 @@ fieldset[disabled] .btn-primary.active {
     font-weight: 700;
     color: #fff;
     background-color: #fed136;
+}
 }
 
 .btn-xl:hover,
