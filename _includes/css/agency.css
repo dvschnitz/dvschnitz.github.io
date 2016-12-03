@@ -315,6 +315,7 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
@@ -799,9 +800,17 @@ ul.social-buttons li a:active {
     box-shadow: none;
 }
 
+/*added*/
 .portfolio-modal .modal-content h2 {
     margin-bottom: 15px;
-    font-size: 3em;
+    font-size: 2em;
+  }
+
+@media(min-width:767px) {
+  .portfolio-modal .modal-content h2 {
+      margin-bottom: 15px;
+      font-size: 3em;
+    }
 }
 
 .portfolio-modal .modal-content p {
