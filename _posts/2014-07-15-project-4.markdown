@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Design
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: For the lecture Exploratives Design we created a so called newsgame. Target of this game is to communicate aspects of the panama papers with the usage of game mechanics. The game was tested and developed with with several lo-fi prototypes, later I translated the mechanics into a polished game with the usage of Adobe Photoshop.
 
 ---
