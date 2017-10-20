@@ -2,7 +2,7 @@
 title: Cultural Heritage Dashboard
 subtitle: Informationvisualization
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2016-10-13
 img: culturalHeritage.png
 thumbnail: culturalHeritage-thumbnail.png
