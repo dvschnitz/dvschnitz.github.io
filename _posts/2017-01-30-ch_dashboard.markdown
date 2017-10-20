@@ -9,5 +9,5 @@ thumbnail: culturalHeritage-thumbnail.png
 alt: image-alt
 project-date: Jänner 2017
 category: Informationsdesign
-description: For the seminar From Design to Software 2 I made a interactive information visualization of the Europeana Database. To accomplish this task I used the JavaScript library d3.js. <br><br>You can try out the Visualization <a href="http://dvschnitz.ddns.net/ch_dashboard/">here</a>.
+description: For the seminar From Design to Software 2 I made a interactive information visualization of the Europeana Database. To accomplish this task I used the JavaScript library d3.js.
 ---
