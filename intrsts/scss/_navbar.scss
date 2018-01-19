@@ -5,6 +5,7 @@
     @include transition-all;
     @include heading-font;
     .navbar-brand {
+        font-size: 26px;
         color: $theme-primary;
         @include heading-font;
         &:hover,
@@ -20,7 +21,8 @@
     .navbar-nav {
         > li {
             > a {
-                font-size: 11px;
+                font-size: 14px;
+                font-weight: 400;
                 @include alt-font;
                 &.active {
                     color: $theme-primary !important;
