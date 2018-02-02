@@ -6,7 +6,7 @@
     @include heading-font;
     .navbar-brand {
         font-size: 26px;
-        color: $theme-primary;
+        color: $white;
         @include heading-font;
         &:hover,
         &:focus {
