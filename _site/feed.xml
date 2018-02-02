@@ -5,9 +5,22 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 19 Jan 2018 12:36:12 +0100</pubDate>
-    <lastBuildDate>Fri, 19 Jan 2018 12:36:12 +0100</lastBuildDate>
+    <pubDate>Fri, 02 Feb 2018 16:05:04 +0100</pubDate>
+    <lastBuildDate>Fri, 02 Feb 2018 16:05:04 +0100</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Intrsts</title>
+        <description>
+</description>
+        <pubDate>Wed, 31 Jan 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/mobile/2018/01/31/intrsts-9/</link>
+        <guid isPermaLink="true">http://localhost:4000/mobile/2018/01/31/intrsts-9/</guid>
+        
+        
+        <category>Mobile</category>
+        
+      </item>
     
       <item>
         <title>Tischtennis Wien</title>
@@ -23,7 +36,7 @@
       </item>
     
       <item>
-        <title>Cultural Heritage Dashboard</title>
+        <title>Europeana Dashboard</title>
         <description>
 </description>
         <pubDate>Thu, 13 Oct 2016 00:00:00 +0200</pubDate>
@@ -75,7 +88,7 @@
       </item>
     
       <item>
-        <title>Informations &lt;br&gt;Visualisierung</title>
+        <title>Informationsdesign</title>
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0200</pubDate>

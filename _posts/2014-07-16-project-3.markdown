@@ -1,5 +1,5 @@
 ---
-title: Informations <br>Visualisierung
+title: Informationsdesign
 subtitle: Design
 layout: default
 modal-id: 3

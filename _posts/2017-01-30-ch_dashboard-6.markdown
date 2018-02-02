@@ -1,5 +1,5 @@
 ---
-title: Cultural Heritage Dashboard
+title: Europeana Dashboard
 subtitle: Informationvisualization
 layout: default
 modal-id: 6

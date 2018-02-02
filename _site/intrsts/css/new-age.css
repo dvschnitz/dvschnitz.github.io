@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - New Age v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/new-age)
- * Copyright 2013-2017 Start Bootstrap
+ * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-new-age/blob/master/LICENSE)
  */
 html,
@@ -12,12 +12,12 @@ body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif'; }
 
 a {
-  color: #fdcc52;
+  color: #AECBE3;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s; }
   a:hover, a:focus {
-    color: #fcbd20; }
+    color: #88b3d6; }
 
 hr {
   max-width: 100px;
@@ -39,7 +39,7 @@ h6 {
   letter-spacing: 1px; }
 
 p {
-  font-size: 30px;
+  font-size: 18px;
   line-height: 1.5;
   margin-bottom: 20px; }
 
@@ -58,23 +58,25 @@ section {
   font-weight: 200;
   letter-spacing: 1px; }
   #mainNav .navbar-brand {
-    color: #fdcc52;
+    font-size: 26px;
+    color: #fff;
     font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
     font-weight: 200;
     letter-spacing: 1px; }
     #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
-      color: #fcbd20; }
+      color: #88b3d6; }
   #mainNav .navbar-toggler {
     font-size: 12px;
     padding: 8px 10px;
     color: #222222; }
   #mainNav .navbar-nav > li > a {
-    font-size: 11px;
+    font-size: 14px;
+    font-weight: 400;
     font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
     letter-spacing: 2px;
     text-transform: uppercase; }
     #mainNav .navbar-nav > li > a.active {
-      color: #fdcc52 !important;
+      color: #AECBE3 !important;
       background-color: transparent; }
       #mainNav .navbar-nav > li > a.active:hover {
         background-color: transparent; }
@@ -83,7 +85,7 @@ section {
     color: #222222; }
     #mainNav .navbar-nav > li > a:hover,
     #mainNav .navbar-nav > li > a:focus:hover {
-      color: #fdcc52; }
+      color: #AECBE3; }
   @media (min-width: 992px) {
     #mainNav {
       border-color: transparent;
@@ -104,13 +106,13 @@ section {
         #mainNav.navbar-shrink .navbar-brand {
           color: #222222; }
           #mainNav.navbar-shrink .navbar-brand:hover, #mainNav.navbar-shrink .navbar-brand:focus {
-            color: #fdcc52; }
+            color: #AECBE3; }
         #mainNav.navbar-shrink .navbar-nav > li > a,
         #mainNav.navbar-shrink .navbar-nav > li > a:focus {
           color: #222222; }
           #mainNav.navbar-shrink .navbar-nav > li > a:hover,
           #mainNav.navbar-shrink .navbar-nav > li > a:focus:hover {
-            color: #fdcc52; } }
+            color: #AECBE3; } }
 
 header.masthead {
   position: relative;
@@ -118,9 +120,9 @@ header.masthead {
   padding-top: 150px;
   padding-bottom: 100px;
   color: white;
-  background: url("../img/bg-pattern.png"), #7b4397;
-  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430);
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430); }
+  background: #FF5F6D;
+  background: -webkit-linear-gradient(to left, #FF5F6D, #FFC371);
+  background: linear-gradient(to left, #FF5F6D, #FFC371); }
   header.masthead .header-content {
     max-width: 500px;
     margin-bottom: 100px;
@@ -196,8 +198,8 @@ section.features .feature-item {
     font-size: 80px;
     display: block;
     margin-bottom: 15px;
-    background: -webkit-linear-gradient(to left, #7b4397, #dc2430);
-    background: linear-gradient(to left, #7b4397, #dc2430);
+    background: -webkit-linear-gradient(to left, #FF5F6D, #FFC371);
+    background: linear-gradient(to left, #FF5F6D, #FFC371);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
 
@@ -277,12 +279,12 @@ footer {
         text-decoration: none; }
 
 .bg-primary {
-  background: #fdcc52;
-  background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#fdcc52, #fdc539); }
+  background: #AECBE3;
+  background: -webkit-linear-gradient(#AECBE3, #9bbfdc);
+  background: linear-gradient(#AECBE3, #9bbfdc); }
 
 .text-primary {
-  color: #fdcc52; }
+  color: #AECBE3; }
 
 .no-gutter > [class*='col-'] {
   padding-right: 0;
@@ -294,8 +296,8 @@ footer {
   border-color: white; }
   .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
     color: white;
-    border-color: #fdcc52;
-    background-color: #fdcc52; }
+    border-color: #AECBE3;
+    background-color: #AECBE3; }
 
 .btn {
   border-radius: 300px;
