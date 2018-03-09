@@ -134,7 +134,7 @@ header.masthead {
     margin-right: auto;
     margin-left: auto; }
     header.masthead .device-container .screen img {
-      border-radius: 3px; }
+      border-radius: 1px; }
   @media (min-width: 992px) {
     header.masthead {
       height: 100vh;
