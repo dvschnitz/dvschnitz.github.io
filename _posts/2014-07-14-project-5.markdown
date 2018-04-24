@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Android
-description: Wien Quiz is a Android application with more than 250 questions about vienna. The application was made as a side project to learn more about Android programming. Additionally to the standard quiz section, the user can visit several places in Vienna to unlock further questions.  
+description: Wien Quiz is an Android application with more than 250 questions about Vienna. The application was made as a side project to learn more about Android programming. Additionally to the standard quiz section, the user can visit several places in Vienna to unlock further questions.
 
 ---

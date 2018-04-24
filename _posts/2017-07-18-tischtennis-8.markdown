@@ -9,6 +9,6 @@ thumbnail: tischtennisWien-thumbnail.jpeg
 alt: image-alt
 project-date: Juli 2017
 category: Android
-description: As a sideproject I implemented an Android application which shows outdoor and indor tabletennis spots in vienna on a map. Aditionally users can add places to their favorites. You can download the app <a href="https://play.google.com/store/apps/details?id=at.schnitzhofer.david.tischtenniswien">here</a>.
+description: As a side project, I implemented an Android application which shows outdoor and indoor table tennis spots in Vienna on a map. Additionally, users can add places to their favorites. You can download the app <a href="https://play.google.com/store/apps/details?id=at.schnitzhofer.david.tischtenniswien">here</a>.
 
 --- 

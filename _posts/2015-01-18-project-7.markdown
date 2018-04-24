@@ -10,6 +10,6 @@ alt: image-alt
 project-date: Jänner 2015
 client: Start Bootstrap
 category: Web Development
-description: For the lecture Building interction interfaces we decided to make a smartlamp. The Lamp is connected with a Raspberry pi and can be controlled via an Android or iOS application. The data is transmitted via Googles Firebase. The lamp can be switched with with an integrated relay, additionally the color of the lamp can be changed by a colored disk and a servomotor. 
+description: For the lecture Building Interaction Interfaces, we decided to make a smart lamp. The Lamp is connected with a Raspberry Pi and can be controlled via an Android or iOS application. The data is transmitted via Googles Firebase. The lamp can be switched with an integrated relay, additionally, the color of the lamp can be changed by a colored disk and a servomotor. 
 
 ---

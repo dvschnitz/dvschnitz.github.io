@@ -9,6 +9,6 @@ thumbnail: intrsts-thumbnail.png
 alt: image-alt
 project-date: January 2018
 category: Mobile
-description: Intrsts is an app that will help you find your interests and make the best of yourself. The app will be released soon for <b>Android</b> and <b>iOS</b>. Find out more here <a href="http://david.schnitzhofer.at/intrsts"><b>here</b></a>.
+description: Intrsts is an app that helps you find your interests and make the best of yourself. The app will be released soon for <b>Android</b> and <b>iOS</b>. Find out more here <a href="http://david.schnitzhofer.at/intrsts"><b>here</b></a>.
 
 --- 
