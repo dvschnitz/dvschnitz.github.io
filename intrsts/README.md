@@ -72,4 +72,5 @@ Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https:/
 
 ## Implement privacy page
 * It is necessary to change the navigation bar background to the gradient and fix it up there.
+** Change .navbar-shrink
 * Privacy in English and German
