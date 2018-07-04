@@ -1,6 +1,6 @@
 ---
 title: Intrsts
-subtitle: Android & iOS
+subtitle: React Native, Android & iOS
 layout: default
 modal-id: 9
 date: 2018-01-31
@@ -9,6 +9,6 @@ thumbnail: intrsts-thumbnail.png
 alt: image-alt
 project-date: January 2018
 category: Mobile
-description: Intrsts is an app that helps you find your interests and make the best of yourself. The app will be released soon for <b>Android</b> and <b>iOS</b>. Find out more here <a href="http://david.schnitzhofer.at/intrsts"><b>here</b></a>.
+description: Intrsts is an app that helps you find your interests and make the best of yourself. The app was developed with <b>React Native</b> and will be released soon for <b>Android</b> and <b>iOS</b>. Find out more here <a href="http://david.schnitzhofer.at/intrsts"><b>here</b></a>.
 
 --- 
