@@ -9,6 +9,6 @@ thumbnail: mumok-thumbnail.jpg
 alt: image-alt
 project-date: January 2018
 category: Mobile
-description: For my diploma thesis with the title "Casual Information Visualization on Mobile Devices considering the Museum Context" I designed and implemented a mobile museum visualization. Afterwards I the was tested with 21 participants in the modern art museum mumok. <br><br>The cross-platform application was implemented in <b>Ionic</b>. For the visualization part <b>D3.js</b>, ngx-charts and Google Maps was used. To get additional information about an artwork and the artist, users can scan the artwork's label with the camera of the device. 
+description: For my diploma thesis with the title "Casual Information Visualization on Mobile Devices considering the Museum Context" I designed and implemented a mobile museum visualization. Afterward it the was tested with 21 participants in the modern art museum mumok. <br><br>The cross-platform application was implemented in <b>Ionic</b>. For the visualization part <b>D3.js</b>, ngx-charts and Google Maps were used. To get additional information about an artwork and the artist, users can scan the artwork's label with the device's camera. 
 
 ---     

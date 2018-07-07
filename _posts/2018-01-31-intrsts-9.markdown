@@ -9,6 +9,6 @@ thumbnail: intrsts-thumbnail.png
 alt: image-alt
 project-date: January 2018
 category: Mobile
-description: Intrsts is an app that helps you find your interests and make the best of yourself. The app was developed with <b>React Native</b> and will be released soon for <b>Android</b> and <b>iOS</b>. Find out more here <a href="http://david.schnitzhofer.at/intrsts"><b>here</b></a>.
+description: Intrsts is a mobile app which helps young people to find their interest by swiping through facts of different knowledge areas. Based on the swipes a profile of the user’s preferences is created. The different fields are described and fitting educational offerings nearby are presented. Furthermore, users can share facts and their progress with friends. </br></br>The app was developed with <b>React Native</b> and will be released soon for <b>Android</b> and <b>iOS</b>. Find out more here <a href="http://david.schnitzhofer.at/intrsts"><b>here</b></a>.
 
 --- 

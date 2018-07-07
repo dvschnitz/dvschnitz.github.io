@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Design
-description: For the lecture Exploratives Design, we created a so-called newsgame. The target of this game is to communicate aspects of the Panama papers with the usage of game mechanics. The game was tested and developed with several lo-fi prototypes, later I translated the mechanics into a polished game with the usage of Adobe Photoshop.
+description: For the lecture <i>Exploratives Design</i>, we created a so-called newsgame. The target of this game is to communicate aspects of the Panama papers with the usage of game mechanics. The game was tested and developed with several lo-fi prototypes, later I translated the mechanics into a polished game with the usage of Adobe Photoshop.
 
 ---
