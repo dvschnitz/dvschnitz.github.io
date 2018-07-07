@@ -462,6 +462,10 @@ section h3.section-subheading {
     margin-top: 6px;
 } 
 
+section#contact .btn {
+    margin-top: -40px;
+}
+
 .rating {
 	float: left;
 	padding-top: 4px;
@@ -783,7 +787,7 @@ footer span.copyright {
 footer ul.quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;
-    text-transform: none;
+    text-transform: none;-
     font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
 }
