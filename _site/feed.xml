@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 07 Jul 2018 14:26:33 +0200</pubDate>
-    <lastBuildDate>Sat, 07 Jul 2018 14:26:33 +0200</lastBuildDate>
+    <pubDate>Sun, 08 Jul 2018 22:18:59 +0200</pubDate>
+    <lastBuildDate>Sun, 08 Jul 2018 22:18:59 +0200</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
     
       <item>
@@ -88,6 +88,19 @@
       </item>
     
       <item>
+        <title>Flight Buddies</title>
+        <description>
+</description>
+        <pubDate>Mon, 16 May 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/game/2016/05/16/flightbuddies-11/</link>
+        <guid isPermaLink="true">http://localhost:4000/game/2016/05/16/flightbuddies-11/</guid>
+        
+        
+        <category>Game</category>
+        
+      </item>
+    
+      <item>
         <title>Magic Bulb</title>
         <description>
 </description>
@@ -123,19 +136,6 @@
         
         
         <category>Design</category>
-        
-      </item>
-    
-      <item>
-        <title>Wien Quiz</title>
-        <description>
-</description>
-        <pubDate>Mon, 14 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/android/2014/07/14/wienquiz-5/</link>
-        <guid isPermaLink="true">http://localhost:4000/android/2014/07/14/wienquiz-5/</guid>
-        
-        
-        <category>Android</category>
         
       </item>
     
