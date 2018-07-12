@@ -896,6 +896,12 @@ ul.social-buttons li a:active {
     transform: rotate(90deg);
 }
 
+/* added */
+.portfolio-modal ul {
+    text-align: left;
+    margin-top: 8;
+}
+
 ::-moz-selection {
     text-shadow: none;
     background: #{{ site.data.template.color.primary }};
