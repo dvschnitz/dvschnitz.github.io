@@ -1,0 +1,14 @@
+---
+title: IMMV
+subtitle: Interactive Music Mapping Vienna
+layout: default
+modal-id: 13
+date: 2020-10-13
+img: immv.png
+thumbnail: immv-thumbnail.png
+alt: image-alt
+project-date: Oktober 2020
+client: IMMV
+category: Informationvisualization
+description: For Interactive Music Mapping Vienna (IMMV) I implemented a ciruclar visualization which shows the connection between artists and the distribution of topics. <br><a href="https://immv-map.cvast.tuwien.ac.at">https://immv-map.cvast.tuwien.ac.at</a>
+---
