@@ -460,7 +460,7 @@ section h3.section-subheading {
 
 #skills li {
     margin-top: 6px;
-} 
+}
 
 section#contact .btn {
     margin-top: -40px;
@@ -790,6 +790,10 @@ footer ul.quicklinks {
     text-transform: none;-
     font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
+}
+
+footer ul.quicklinks li a {
+    color: #575550;
 }
 
 ul.social-buttons {

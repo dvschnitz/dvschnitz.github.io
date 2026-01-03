@@ -452,7 +452,7 @@ section h3.section-subheading {
 
 #skills li {
     margin-top: 6px;
-} 
+}
 
 section#contact .btn {
     margin-top: -40px;
@@ -782,6 +782,10 @@ footer ul.quicklinks {
     text-transform: none;-
     font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
+}
+
+footer ul.quicklinks li a {
+    color: #{{ site.data.template.color.secondary-dark }};
 }
 
 ul.social-buttons {
