@@ -5,22 +5,21 @@ Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templa
 
 # How to use
 
-###Portfolio 
+### Portfolio 
 
 Portfolio projects are in '/_posts'
 
 Images are in '/img/portfolio'
 
-###About
+### About
 
 Images are in '/img/about/'
 
-###Team
+### Team
 
 Team members and info are in '_config.yml'
 
 Images are in '/img/team/'
-
 
 # Demo
 
@@ -32,3 +31,8 @@ For more details, read [documentation](http://jekyllrb.com/)
 ## Changes on page
 
 Use html files in _includes folder eg: about.html, skills.html
+
+# Run Website
+
+* `bundle install`
+* `bundle exec jekyll serve`
